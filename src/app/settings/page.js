@@ -69,18 +69,18 @@ export default function SettingPage() {
       </div>
 
       {/* Main Content */}
-      <main className="flex-1 p-6 max-w-xl mx-auto">
+      <main className="bg-white w-full p-5">
           <Input placeholder="Cari Pengaturan" />
             <h1 className="mt-5 text-2xl font-semibold mb-6">Pengaturan</h1>
               <div className="space-y-6">
                {/* Akun */}
               <section>
                 <h2 className="text-lg font-medium mb-2">Profile Pengguna</h2>
-                <div className="space-y-3">
-                  <input placeholder="Nama Lengkap"></input>
-                  <input placeholder="Email" type="email"></input>
-                  <input placeholder="Kata Sandi Baru" type="password"></input>
-                  <button className="full bg-black text-white hover:bg-gray-500 hover:text-white">Simpan Perubahan</button>
+                <div className="flex gap-5">
+                  <Input placeholder="Nama Lengkap" />
+                  <Input placeholder="Email" type="email" />
+                  <Input placeholder="Kata Sandi Baru" type="password" />
+                  <button className="full bg-black text-white hover:bg-gray-500 hover:text-white p-1">Simpan Perubahan</button>
                 </div>
               </section>
 

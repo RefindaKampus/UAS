@@ -455,7 +455,7 @@ function UserPage() {
                                                 children: [
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                                                         className: "text-lg font-bold",
-                                                        children: "Qolby Zakin Sephiana"
+                                                        children: "Elbert Greetia"
                                                     }, void 0, false, {
                                                         fileName: "[project]/src/app/users/page.js",
                                                         lineNumber: 137,
@@ -463,7 +463,7 @@ function UserPage() {
                                                     }, this),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                                                         className: "text-sm",
-                                                        children: "qolby@universitasmulia.ac.id"
+                                                        children: "elbie@universitasmulia.ac.id"
                                                     }, void 0, false, {
                                                         fileName: "[project]/src/app/users/page.js",
                                                         lineNumber: 138,
@@ -520,7 +520,7 @@ function UserPage() {
                                                 children: [
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                                                         className: "text-lg font-bold",
-                                                        children: "Aqilah Aulya Maulidah"
+                                                        children: "Gilbert Sylvatica"
                                                     }, void 0, false, {
                                                         fileName: "[project]/src/app/users/page.js",
                                                         lineNumber: 154,
@@ -528,7 +528,7 @@ function UserPage() {
                                                     }, this),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                                                         className: "text-sm",
-                                                        children: "Aqilah@universitasmulia.ac.id"
+                                                        children: "Gilby@universitasmulia.ac.id"
                                                     }, void 0, false, {
                                                         fileName: "[project]/src/app/users/page.js",
                                                         lineNumber: 155,

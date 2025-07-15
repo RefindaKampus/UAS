@@ -86,9 +86,12 @@ export default function RolePage() {
               <tr key={item.id} className="border-b">
                 <td className="p-2">{index + 1}</td>
                 <td className="p-2">{item.name}</td>
-                <td className="p-2 flex gap-2"></td>
+                <td className="p-2">
+                <div className="flex flex-row gap-2">
                   <IconEdit size={18} className="cursor-pointer" />
                   <IconTrash size={18} className="cursor-pointer text-red-500" />
+                </div>
+                </td>
               </tr>
             ))}
           </tbody>

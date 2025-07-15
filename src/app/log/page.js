@@ -78,7 +78,7 @@ export default function LogPage() {
       </div>
 
       {/* Main Content */}
-      <main className="flex-1 p-6">
+      <div id="content" className="bg-white w-full p-5">
           <Input placeholder="Cari Aktivitas" />
             <table className="mt-5 w-full border text-sm">
               <thead>
@@ -100,7 +100,7 @@ export default function LogPage() {
               ))}
               </tbody>
             </table>
-      </main>
+      </div>
         <button className="fixed bottom-6 right-6 p-3 full bg-gray-300 full hover:bg-black hover:text-white">
           <IconPlus size={25} />
         </button>

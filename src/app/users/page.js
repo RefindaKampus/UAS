@@ -134,8 +134,8 @@ export default function UserPage() {
           >
             <div>
               <div>
-                <p className="text-lg font-bold">Qolby Zakin Sephiana</p>
-                <p className="text-sm">qolby@universitasmulia.ac.id</p>
+                <p className="text-lg font-bold">Elbert Greetia</p>
+                <p className="text-sm">elbie@universitasmulia.ac.id</p>
               </div>
               <div className="flex gap-2 mt-3">
                 <p className="bg-black text-white px-2 py-1 rounded-lg text-sm">
@@ -151,8 +151,8 @@ export default function UserPage() {
           >
             <div>
               <div>
-                <p className="text-lg font-bold">Aqilah Aulya Maulidah</p>
-                <p className="text-sm">Aqilah@universitasmulia.ac.id</p>
+                <p className="text-lg font-bold">Gilbert Sylvatica</p>
+                <p className="text-sm">Gilby@universitasmulia.ac.id</p>
               </div>
               <div className="flex gap-2 mt-3">
                 <p className="bg-black text-white px-2 py-1 rounded-lg text-sm">

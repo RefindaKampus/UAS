@@ -95,11 +95,11 @@ export default function NewPage() {
       </div>
 
       {/* Main Content */}
-      <main className="flex-1 p-6">
+      <main className="bg-white w-full p-5">
         <div id="content" className="bg-white w-full p-5">
           <Input placeholder="Cari Berita" />
         </div>
-        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
+        <div className="flex-1/3 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-2">
           {dataBerita.map((item) => (
             <div key={item.id} className="border rounded-lg p-4 shadow-sm bg-white hover:shadow-md transition">
               <div className="flex justify-between items-start mb-2">
