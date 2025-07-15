@@ -1,4 +1,5 @@
 "use client";
+import { Button } from "@/components/ui/button";
 import { Input } from "@/components/ui/input";
 import {
   IconChartBar,
@@ -80,7 +81,7 @@ export default function SettingPage() {
                   <Input placeholder="Nama Lengkap" />
                   <Input placeholder="Email" type="email" />
                   <Input placeholder="Kata Sandi Baru" type="password" />
-                  <button className="full bg-black text-white hover:bg-gray-500 hover:text-white p-1">Simpan Perubahan</button>
+                  <Button className="full bg-black text-white hover:bg-gray-500 hover:text-white rounded-lg p-1">Simpan Perubahan</Button>
                 </div>
               </section>
 
@@ -96,7 +97,7 @@ export default function SettingPage() {
                     <option>Mode Terang</option>
                     <option>Mode Gelap</option>
                   </select>
-                  <button variant="outline">Reset ke Default</button>
+                  <Button className="full bg-black text-white hover:bg-gray-500 hover:text-white p-1">Reset ke Default</Button>
                 </div>
               </section>
               </div>
